@@ -1,0 +1,2 @@
+lr: 0.01
+model_name: google/bert_uncased_L-2_H-128_A-2
